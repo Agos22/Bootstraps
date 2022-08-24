@@ -1,0 +1,14 @@
+body {
+    font-family: 'poppins', 'sans serif';
+}
+.header {
+    background-image: url(../carpetaMultimedia/_DSC6615.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+}
+body {
+    background-color: rgb(255, 122, 211);
+}
